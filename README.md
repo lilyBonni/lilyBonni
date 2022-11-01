@@ -1,4 +1,4 @@
-<img src="/BannerTransparent.png" alt="banner" align="center" />
+<img src="/download.webp" alt="banner" align="center" />
 ### Hi there 👋
 
 <!--
