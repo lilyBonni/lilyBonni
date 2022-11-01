@@ -2,7 +2,7 @@
 
 ### Hi there 👋 Welcome to my GitHub page!
 
-I'm Merry. I'm a Python developer. I have passion to web development as well. Some of my work may be interesting for you. If you found value in something I have created, reach out to me 🔭. 
+I'm a Python developer. I have passion to web development as well. Some of my work may be interesting for you. If you found value in something I have created, reach out to me 🔭. 
 
 ---
 
