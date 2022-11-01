@@ -1,3 +1,4 @@
+<img src="/BannerTransparent.png" alt="banner" align="center" />
 ### Hi there 👋
 
 <!--
