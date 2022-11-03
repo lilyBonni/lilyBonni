@@ -25,7 +25,7 @@ I'm a Python developer. I have passion to web development as well. Some of my wo
   <img alt="CockroachDB" src="https://img.shields.io/badge/CockroachDB-6933FF?logo=Cockroach Labs&logoColor=white&?style=for-the-badge" />
 </p>
 
----
+<hr size="20" color="#00ff00">
 
 ### Send me a message🗯
 
@@ -35,6 +35,4 @@ I'm a Python developer. I have passion to web development as well. Some of my wo
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&?style=for-the-badge"
   />
 </a>
-
----
 
